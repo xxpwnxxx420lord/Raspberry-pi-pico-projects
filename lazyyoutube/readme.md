@@ -10,7 +10,5 @@
 
   <h1>DEMONSTRATION</h1>
 
-  <a href="https://github.com/user-attachments/assets/063a2807-b1af-44d0-befc-f673e30f41d9">
-    Watch Video
-  </a>
+  [![Watch the demo](https://github.com/user-attachments/assets/174effb9-7858-4094-8291-796cadaed9ee)](https://github.com/user-attachments/assets/063a2807-b1af-44d0-befc-f673e30f41d9)
 </div>
