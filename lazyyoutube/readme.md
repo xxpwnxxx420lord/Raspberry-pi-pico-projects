@@ -1,13 +1,16 @@
-
 # CIRCUIT DESIGN (VERY SIMPLE)
 
-(on one side)
+(On one side)
 
-jumper wire 1 -> pin on button and pin 20
-jumper wire 2 -> pin on button and pin 18
+- Jumper wire 1 → button pin and pin 20
+- Jumper wire 2 → button pin and pin 18
 
 <div align="center">
-  <img width="1549" height="845" alt="image" src="https://github.com/user-attachments/assets/174effb9-7858-4094-8291-796cadaed9ee" />
-  # DEMOSTRATION:
-  https://github.com/user-attachments/assets/063a2807-b1af-44d0-befc-f673e30f41d9
+  <img width="1549" height="845" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/174effb9-7858-4094-8291-796cadaed9ee" />
+
+  <h1>DEMONSTRATION</h1>
+
+  <a href="https://github.com/user-attachments/assets/063a2807-b1af-44d0-befc-f673e30f41d9">
+    Watch Video
+  </a>
 </div>
